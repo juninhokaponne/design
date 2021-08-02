@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    overflow-x: hidden; 
+}
+
 #col1{  
     width: 100vh;    
 }
